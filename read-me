@@ -1,0 +1,20 @@
+
+TP 1 ALGO:  implementer un Arbre Binaire de Recherche (ABR).
+Fonctionnalités : insertion de valeurs, calcul de la hauteur, du degré maximal, de la densité, et affichage graphique.
+
+prerequis:
+- Python 3.12.1
+  Vérifier l’installation :
+  python --version
+
+Bibliothèques :
+pip install networkx matplotlib
+
+Utilisation:
+Dans le terminal, exécuter :
+python main.py
+Saisir les valeurs à insérer dans l’arbre (séparées par des espaces).
+Résultats affichés :
+Parcours infixe, préordre, postordre
+Hauteur, nombre de nœuds, degré maximal, densité
+Arbre affiché graphiquement
